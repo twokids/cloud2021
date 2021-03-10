@@ -6,8 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="cloud-consumer-order80" />
+        <module name="cloud-provider-payment8081" />
         <module name="cloud-provider-payment8001" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud-consumer-order80" target="8" />
+      <module name="cloud-povider-product8002" target="8" />
+      <module name="cloud-provider-payment8001" target="1.8" />
+      <module name="cloud-provider-payment8001 (1)" target="1.8" />
+      <module name="cloud-provider-payment8001 (2)" target="1.8" />
+      <module name="cloud-provider-payment8001 (3)" target="1.8" />
+      <module name="cloud-provider-payment8001 (4)" target="1.8" />
+      <module name="cloud-provider-payment8081" target="8" />
+      <module name="cloud2021" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

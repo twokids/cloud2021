@@ -1,0 +1,20 @@
+server:
+  port: 8001
+
+spring:
+  application:
+    name: cloud-provider-service
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource      #当前数据源操作类型
+    driver-class-name: com.mysql.jdbc.Driver        #mysql驱动包 org.gjt.mm.mysql.Driver
+    url: jdbc:mysql://127.0.0.1:3306/db2019?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
+    username: root
+    password: root2019
+
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: com.twokids.springcloud.entities       #所有Entity别名类所在包
+
+
+
+
