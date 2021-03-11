@@ -25,6 +25,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="cloud-api-commons" />
+    <orderEntry type="library" name="Maven: cn.hutool:hutool-all:5.1.0" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-starter-zipkin:2.2.3.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-starter-sleuth:2.2.3.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-aop:2.2.2.RELEASE" level="project" />

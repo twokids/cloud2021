@@ -14,6 +14,11 @@
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
     <dependencies>
+        <dependency>
+            <groupId>com.twokids.springcloud</groupId>
+            <artifactId>cloud-api-commons</artifactId>
+            <version>${project.version}</version>
+        </dependency>
         <!--包含了sleuth+zipkin-->
         <dependency>
             <groupId>org.springframework.cloud</groupId>

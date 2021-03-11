@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 /**
  * @author ：nanshan
  * @mail : wangchunjie@babychan.com
- * @date ：Created in 2021/3/5 16:15
+ * @date ：Created in 2021/3/10 20:32
  * @description：
  */
 @Data
@@ -22,3 +22,4 @@ public class CommonResult<T> {
         this(code, message, null);
     }
 }
+

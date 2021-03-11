@@ -9,10 +9,6 @@ Ucloud-provider-payment8001/src/main/java/com/twokids/springcloud/PaymentMain800
 Tcloud-provider-payment8001/src/main/java/com/twokids/springcloud/dao/PaymentDao.java,b\2\b246fc989bfdad7ef262ff9b51aae7fbb2f2a63c
 •
 ecloud-provider-payment8001/src/main/java/com/twokids/springcloud/service/impl/PaymentServiceImpl.java,6\6\665609c27ec06940a8c4982436927d399315d2f3
-‹
-[cloud-provider-payment8001/src/main/java/com/twokids/springcloud/entities/CommonResult.java,0\b\0bae5a584289d48b2476b0fbd4447a2342d03261
-†
-Vcloud-provider-payment8001/src/main/java/com/twokids/springcloud/entities/Payment.java,e\c\ec9f0dca6d00f17b3c18ab11790a5440cebbe57a
 ’
 bcloud-provider-payment8001/src/main/java/com/twokids/springcloud/controller/PaymentController.java,4\5\45692a2fce80d06efeb72df8a21ad932dcfc1b20
 7
